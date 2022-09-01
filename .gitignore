@@ -1,0 +1,5 @@
+ldm*/
+src/
+.ipynb_checkpoints
+*.swp
+*.egg-info/
